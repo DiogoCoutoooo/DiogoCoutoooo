@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DiogoCoutoooo&label=Profile%20views&color=0e75b6&style=flat" alt="DiogoCoutoooo" /> </p>
 </br>
 
-- <a href="https://discord.gg" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="8xHn6Fr" height="20" width="" /> My Discord Server</a>
+- <a href="https://discord.gg" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="8xHn6Fr" height="20" width="" /> My Discord Server</a>
 
 </br>
 
