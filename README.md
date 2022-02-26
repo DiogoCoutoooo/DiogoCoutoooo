@@ -15,7 +15,7 @@
   
 <p align="center">
 <h3 align="left">Stats:</h3>
-<a href="https://github.com/Solixx">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark">
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" alt= DiogoCoutoooo/>
 </a>
 </p>
