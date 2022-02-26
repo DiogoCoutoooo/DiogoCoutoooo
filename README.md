@@ -15,5 +15,5 @@
   
 <p align="center">
 <h3 align="left">Stats:</h3>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutooo&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&layout=compact&theme=github_dark)
 </p>
