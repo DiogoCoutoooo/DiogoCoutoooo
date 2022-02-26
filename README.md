@@ -15,7 +15,6 @@
   
 <p align="center">
 <h3 align="left">Stats:</h3>
-</br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&layout=compact&theme=github_dark" alt="DiogoCoutoooo" /> </p>
-</br>
 </p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&layout=compact&theme=github_dark)
