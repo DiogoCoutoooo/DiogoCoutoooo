@@ -6,7 +6,7 @@
 </br>
 
 - <a href="https://discord.gg" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord.svg" alt="8xHn6Fr" height="20" width="" /> My Discord Server</a>
-- <img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/robot-microsoft.png" alt="8xHn6Fr" height="20" width="" /> Advanced Portuguese Bot Developer
+- <img align="center" src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/robot-microsoft.png" alt="8xHn6Fr" height="20" width="" /> Bot Developer
 </br>
 
 <h3 align="left">Languages & Tools:</h3>
