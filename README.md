@@ -15,6 +15,8 @@
   
 <p align="center">
 <h3 align="left">Stats:</h3>
-<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&theme=github_dark" alt= DiogoCoutoooo/>
+<div align="center"> 
+<img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCoutoooo&layout=compact&hide_border=true&langs_count=7&theme=github_dark" alt= DiogoCoutoooo/>
+</div>
 </a>
 </p>
