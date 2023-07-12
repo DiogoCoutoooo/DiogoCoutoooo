@@ -23,7 +23,7 @@
 <p align="center">
 <h3 align="left">Stats:</h3>
 <div align="center"> 
-<img align="left" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark" alt= DiogoCoutoooo/>
+<img align="left" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=dark" alt= DiogoCoutoooo/>
 </div>
 </a>
 </p>
