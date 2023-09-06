@@ -21,8 +21,6 @@
 <a href="https://developer.android.com/studio" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="40" height="40"/> </a>
 
-# AD
-
 <div style="clear: both">
 <h3 align="left" display="inline">Stats & Spotify:</h3>
 </div>
