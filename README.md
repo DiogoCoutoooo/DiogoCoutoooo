@@ -27,7 +27,7 @@
 <h3 align="left" display="inline">Stats & Spotify:</h3>
 </div>
 <img align="left" height="150em" src="https://github-readme-stats-coutoooo.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt= DiogoCoutoooo/>
-<img align="right" height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31mzkj2n3ye3xfohwifhzdso7qui&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://github.com/kittinan/spotify-github-profile" alt= DiogoCoutoooo/>
+<img align="right" height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31mzkj2n3ye3xfohwifhzdso7qui&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt= DiogoCoutoooo/>
 </div>
 </a>
 </p>
