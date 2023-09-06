@@ -20,11 +20,14 @@
 <a href="https://unity.com/" target="_blank"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="Unity" width="40" height="40"/> </a>
 <a href="https://developer.android.com/studio" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="40" height="40"/> </a>
-  
-<p align="center">
-<h3 align="left">Stats:</h3>
-<div align="center"> 
+
+# AD
+
+<div style="clear: both">
+<h3 align="left" display="inline">Stats & Spotify:</h3>
+</div>
 <img align="left" height="150em" src="https://github-readme-stats-coutoooo.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt= DiogoCoutoooo/>
+<img align="right" height="150em" src="https://spotify-github-profile.vercel.app/api/view?uid=31mzkj2n3ye3xfohwifhzdso7qui&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false)](https://github.com/kittinan/spotify-github-profile" alt= DiogoCoutoooo/>
 </div>
 </a>
 </p>
