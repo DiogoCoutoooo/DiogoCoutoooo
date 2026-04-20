@@ -1,31 +1,122 @@
-<h1 align="center">Hi 👋, I'm DiogoCoutoooo</h1>
-<h3 align="center">I do Discord bots and that's it :P</h3>
+<div align="center">
 
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DiogoCoutoooo&label=Profile%20views&color=0e75b6&style=flat" alt="DiogoCoutoooo" /> </p>
-</br>
-◻ 🤖 Discord Bot Developer
-</br>
+```
+ ██████╗ ██╗ ██████╗  ██████╗  ██████╗      ██████╗ ██████╗ ██╗   ██╗████████╗ ██████╗ 
+ ██╔══██╗██║██╔═══██╗██╔════╝ ██╔═══██╗    ██╔════╝██╔═══██╗██║   ██║╚══██╔══╝██╔═══██╗
+ ██║  ██║██║██║   ██║██║  ███╗██║   ██║    ██║     ██║   ██║██║   ██║   ██║   ██║   ██║
+ ██║  ██║██║██║   ██║██║   ██║██║   ██║    ██║     ██║   ██║██║   ██║   ██║   ██║   ██║
+ ██████╔╝██║╚██████╔╝╚██████╔╝╚██████╔╝    ╚██████╗╚██████╔╝╚██████╔╝   ██║   ╚██████╔╝
+ ╚═════╝ ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝      ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝    ╚═════╝ 
+```
 
-<h3 align="left">Languages & Tools:</h3>
-</br>
-<p align="left">
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Kotlin" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png" alt="Node.js" width="40" height="40"/> </a>
-<a href="https://unity.com/" target="_blank"> <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" alt="Unity" width="40" height="40"/> </a>
-<a href="https://developer.android.com/studio" target="-blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" width="40" height="40"/> </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%80%94+Cyber+Security+Engineer+%7C+Pentester" alt="Typing SVG" />
 
-<div style="clear: both">
-<h3 align="left" display="inline">Stats & Spotify:</h3>
+<img src="https://komarev.com/ghpvc/?username=DiogoCoutoooo&label=Profile%20views&color=00ff41&style=for-the-badge" alt="DiogoCoutoooo" />
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-diogocoutoooo.github.io-0d1117?style=for-the-badge&logo=astro&logoColor=00ff41&labelColor=0d1117)](https://diogocoutoooo.github.io)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-Writeups-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9fef00&labelColor=0d1117)](https://diogocoutoooo.github.io/htb)
+[![CTF Zone](https://img.shields.io/badge/CTF_ZONE-Challenges-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff6347&labelColor=0d1117)](https://diogocoutoooo.github.io/ctf)
+
 </div>
-<img align="left" height="150em" src="https://github-readme-stats-coutoooo.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt= DiogoCoutoooo/>
-<img align="right" height="150em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mzkj2n3ye3xfohwifhzdso7qui&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt= DiogoCoutoooo/>
+
+---
+
+```bash
+┌──[diogocoutoooo@github]─[~/about]
+└──╼ $ cat profile.txt
+```
+
+> **Computer Science Student** dedicated to the art of **pentesting**.
+> I look for cracks in code and specialize in deep-dive reconnaissance, vulnerability research, and exploitation.
+> Currently building writeups, CTF challenges, and security tooling.
+
+---
+
+## 🔓 `// LATEST HACK THE BOX WRITEUPS`
+
+| Machine | Difficulty | Key Techniques | CVEs |
+|:--------|:----------:|:---------------|:-----|
+| **[WingData](https://diogocoutoooo.github.io/htb/wingdata)** | 🟢 Easy | RCE via NULL-byte auth bypass, tarfile filter bypass, hardlink overwrite | `CVE-2025-47812` `CVE-2024-12718` |
+| **[TwoMillion](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | API enumeration, command injection, OverlayFS privesc | `CVE-2023-0386` |
+| **[Expressway](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | IKE aggressive mode sniffing, PSK cracking, SUID exploitation | — |
+| **[Cap](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | IDOR, PCAP analysis, Python capabilities privesc | — |
+
+> 📂 **[See All Writeups →](https://diogocoutoooo.github.io/htb)**
+
+---
+
+## 🚩 `// CTF_ZONE — CUSTOM CHALLENGES`
+
+```
+┌─────────────────────────────────────────────────────┐
+│  🔍 FORENSICS // Chirping Bird      ██████░░ Lv.2  │
+│  🌐 OSINT     // Bomber War         ██████░░ Lv.2  │
+│  🕸️ WEB       // The First Crack    ███░░░░░ Lv.1  │
+└─────────────────────────────────────────────────────┘
+```
+> Submit your flags and prove your hacking skills: **[Enter CTF Zone →](https://diogocoutoooo.github.io/ctf)**
+
+---
+
+## 🛠️ `// ARSENAL`
+
+<div align="center">
+
+#### `Languages`
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+
+#### `Security & Tooling`
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+
 </div>
-</a>
-</p>
+
+---
+
+## 📊 `// STATS`
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-coutoooo.vercel.app/api?username=DiogoCoutoooo&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats-coutoooo.vercel.app/api/top-langs/?username=DiogoCoutoooo&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoCoutoooo&theme=dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=ff6347&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎧 `// NOW PLAYING`
+
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mzkj2n3ye3xfohwifhzdso7qui&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff41&bar_color_cover=true" alt="Spotify"/>
+</div>
+
+---
+
+<div align="center">
+
+#### `// CONNECT`
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoCoutoooo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/diogocoutoooo)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/994894277291290674)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=astro&logoColor=00ff41)](https://diogocoutoooo.github.io)
+
+```
+[CONNECTION TERMINATED — EOF]
+```
+
+</div>
