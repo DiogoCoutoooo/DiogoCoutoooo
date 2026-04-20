@@ -36,10 +36,9 @@
 
 | Machine | Difficulty | Key Techniques | CVEs |
 |:--------|:----------:|:---------------|:-----|
-| **[WingData](https://diogocoutoooo.github.io/htb/wingdata)** | 🟢 Easy | RCE via NULL-byte auth bypass, tarfile filter bypass, hardlink overwrite | `CVE-2025-47812` `CVE-2024-12718` |
-| **[TwoMillion](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | API enumeration, command injection, OverlayFS privesc | `CVE-2023-0386` |
-| **[Expressway](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | IKE aggressive mode sniffing, PSK cracking, SUID exploitation | — |
-| **[Cap](https://diogocoutoooo.github.io/htb)** | 🟢 Easy | IDOR, PCAP analysis, Python capabilities privesc | — |
+| **[WingData](https://diogocoutoooo.github.io/htb/wingdata)** | 🟢 Easy | Nmap recon, Metasploit RCE (NULL-byte auth bypass), hashcat salted SHA256 cracking, tarfile filter bypass via hardlink overwrite | `CVE-2025-47812` `CVE-2024-12718` |
+| **[TwoMillion](https://diogocoutoooo.github.io/htb/twomillion)** | 🟢 Easy | JS deobfuscation, API enumeration with cURL, ffuf fuzzing, command injection reverse shell, LinPEAS, OverlayFS kernel exploit | `CVE-2023-0386` |
+| **[Expressway](https://diogocoutoooo.github.io/htb/expressway)** | 🟢 Easy | UDP nmap scan, ike-scan aggressive mode, hashcat IKE-PSK cracking, Squid log analysis, sudo hostname bypass | — |
 
 > 📂 **[See All Writeups →](https://diogocoutoooo.github.io/htb)**
 
@@ -67,16 +66,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=007AAC)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
 #### `Security & Tooling`
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=parrotsecurity&logoColor=15E000)
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=portswigger&logoColor=FF6633)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Hashcat](https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logo=hashicorp&logoColor=EE3B3B)
+![Gobuster](https://img.shields.io/badge/Gobuster-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8)
+![ffuf](https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
+![Netcat](https://img.shields.io/badge/Netcat-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![cURL](https://img.shields.io/badge/cURL-0d1117?style=for-the-badge&logo=curl&logoColor=073551)
+![LinPEAS](https://img.shields.io/badge/LinPEAS-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
