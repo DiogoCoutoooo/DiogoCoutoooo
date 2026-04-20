@@ -119,4 +119,20 @@
 [CONNECTION TERMINATED — EOF]
 ```
 
+
+---
+
+<div align="center">
+
+#### `// CONNECT`
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoCoutoooo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/diogocoutoooo)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/994894277291290674)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=astro&logoColor=00ff41)](https://diogocoutoooo.github.io)
+
+```
+[CONNECTION TERMINATED — EOF]
+```
+
 </div>
